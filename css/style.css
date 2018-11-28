@@ -45,23 +45,44 @@ text-decoration:none;}
 
 footer {
     width:100vw;
-    background-color:white;
-    padding: 70px;
+    background-color:black;
+    padding: 50px;
 }
 footer h1{
     text-align:center;
-   font-size:25px;
-}
-h2{width:100%;
-    margin-left:400px;
-    color:black;}
-    ul  img{margin-left:400px;}
-    body {overflow-x:hidden;}
-    .da ul li {display:inline-block;
-    margin-right:20px;
+   font-size:23px;
+   color:white;
+  }
+h1{width:100vw;
+    margin-left:780px;
+    color:black;
+    border-style:outset;
+    width:200px;
+    
+ }
+ul  img{margin-left:400px;}
+body {overflow-x:hidden;}
+.da ul li {display:inline-block;
+margin-right:20px;
 color:black;
-
 }
+.dani{
+    background-color: #3333;
+width:11%;
+height:8%;
+border:10px solid yellow;
+padding:-1px;
+margin: bottom 40px;
+
+
+
+
+
+  
+    
+        
+    
+
 
 
 
