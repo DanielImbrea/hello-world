@@ -74,11 +74,15 @@ border:10px solid yellow;
 padding:-1px;
 margin: bottom 40px;}
 
-.tabel{width:30%;
-    background-color:green;
+.tabel{width:100%;
+    
     padding: 70px 0px;
 
 
+}
+.tabel td{
+    float:right;
+    margin-top:
 }
 
 
